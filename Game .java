@@ -104,4 +104,10 @@ public class Game {
             }
         } while (want.equals("y"));
     }
+    
+    public void showName() {
+        String name = " ";
+        
+        System.out.println(name);
+    }
 }  //Ending clss 
